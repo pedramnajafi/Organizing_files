@@ -29,4 +29,3 @@ with this script, you can organize your files in the working folder based on the
             filePath.rename(directoryPath.joinpath(filePath))
     organizeDirectory()
 
-
