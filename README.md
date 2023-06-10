@@ -1,6 +1,7 @@
 # Organizing_files
 with this script, you can organize your files in the working folder based on their type.
 
+
     import os
     from pathlib import Path
     SUBDIRECTORIES = {
